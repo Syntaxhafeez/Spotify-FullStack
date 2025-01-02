@@ -29,5 +29,10 @@ A full-stack Spotify clone that replicates the core functionalities of the Spoti
 
 ## Screenshots 📸
 
+![Screenshot 2025-01-02 201423](https://github.com/user-attachments/assets/932bd427-849c-4716-8592-9cff7f8feb22)
+![Screenshot 2025-01-02 201443](https://github.com/user-attachments/assets/87f70a4c-0e1c-408c-bddf-858b8cfdbb65)
+![Screenshot 2025-01-02 201500](https://github.com/user-attachments/assets/be767331-7b1d-46bb-b5e5-5d8715871e1d)
 
-## Connect and follow me on Instagram: [@syntaxhafeez](https://www.instagram.com/syntaxhafeez)
+
+
+### Connect and follow me on Instagram: [@syntaxhafeez](https://www.instagram.com/syntaxhafeez)
